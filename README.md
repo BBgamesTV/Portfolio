@@ -28,3 +28,9 @@ J'ai créé plusieurs sites web au cours de mes projet, Vous pouvez les découvr
 [![Cosmos](https://img.shields.io/badge/-TikViews-Light?style=for-the-badge&color=violet)](https://github.com/BBgamesTV/TikViews) programme en Python utilisant chromium pour faire augmenter les vues et les partages d'une vidéos sur des tiktok 
 
 [![E-Light](https://img.shields.io/badge/-HEIC--PNG-Light?style=for-the-badge&color=blue)](https://github.com/BBgamesTV/Heic-Png) Solution rapide pour convertir des images de types .HEIC vers .PNG
+
+## Contact
+Pour me contacter ajoutes moi sur Discord : Petit Pricne#3575
+Si vous avez des questions, des commentaires ou si vous souhaitez discuter de projets potentiels, Je suis toujours à la recherche de nouvelles opportunités et je serais ravi de discuter avec vous.
+
+Merci de votre visite sur mon portfolio, j'espère que vous apprécierez mon travail !
