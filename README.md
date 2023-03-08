@@ -14,7 +14,10 @@ J'ai créé plusieurs sites web au cours de mes projet, Vous pouvez les découvr
 
 
 # Projet Web
-[![portfolio](https://img.shields.io/badge/-Clouds-Light?style=for-the-badge&color=green)](https://spacehz.xyz/portfolio/Clouds) Clouds est une application qui permet le stockage de fichiers et qui inclut un systeme de web-chat/ un salon de discussion en ligne qui renvoi chaque message sur Disocrd
+
+[![spacehz](https://img.shields.io/badge/-Clouds-Light?style=for-the-badge&color=green)](https://spacehz.xyz) Ce Projet est mon plus abouti ce site est a la base de mon serveur Minecraft il sert de point d'informations pour les joueurs et permet de faire de la Pub également
+
+[![Clouds](https://img.shields.io/badge/-Clouds-Light?style=for-the-badge&color=green)](https://spacehz.xyz/portfolio/Clouds) Clouds est une application qui permet le stockage de fichiers et qui inclut un systeme de web-chat/ un salon de discussion en ligne qui renvoi chaque message sur Disocrd
 
 [![Cosmos](https://img.shields.io/badge/-Cosmos-Light?style=for-the-badge&color=violet)](https://spacehz.xyz/portfolio/Cosmos) j'ai crée cosmos pour mon projet de site web dynamique a rendre pour l'université je travaille encore dessus est donc a l'ameliorer encore
 
