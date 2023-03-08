@@ -14,7 +14,7 @@ Je m'appelle Petit Prince, développeur web passionné de l'informatique et des 
 
 
 
-En-dehors du développement, j'ai plusieurs centres d'intérêt, notamment les jeux vidéo et le monde des cryptomonnaies. Je suis fasciné par l'univers des jeux vidéo depuis mon plus jeune âge, et j'ai toujours été attiré par la technologie et l'innovation. C'est ce qui m'a poussé à me tourner vers le développement web et à me lancer dans cette carrière.
+En-dehors du développement, j'ai plusieurs centres d'intérêt, notamment les jeux vidéo et le monde des cryptomonnaies. Je suis fasciné par l'univers du web3 des crytomonnaies et des NFT , et j'ai toujours été attiré par la technologie et l'innovation. C'est ce qui m'a poussé à me tourner vers le développement web et à me lancer dans cette voie.
 
 
 
