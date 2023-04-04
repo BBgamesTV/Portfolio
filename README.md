@@ -108,7 +108,7 @@ J'ai créé plusieurs sites web au cours de mes projets, vous pouvez les découv
 
 
 
-Pour me contacter ajoutes moi sur Discord : Petit Pricne#3575
+Pour me contacter ajoutes moi sur Discord : Petit Prince#3575
 
 
 
